@@ -1,1 +1,1 @@
-  Performed POS tagging using HMMs on Wall Street Journal dataset. After training HMM, performed greedy and Viterbi decoding algorithm and tested performance. 
+  Performed POS tagging using HMMs on Wall Street Journal dataset. After training HMM, performed greedy and Viterbi decoding algorithm and tested performance. Experiments and explanation is in PDF, code in .py file.
