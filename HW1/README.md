@@ -1,0 +1,1 @@
+Performed sentiment analysis on Amazon reviews dataset using text classification. Extracted TF-IDF features of reviews to train several classifiers that can predict the rating value for a review. Experiments are shown in PDF and the best performing model is shown in .py file.
